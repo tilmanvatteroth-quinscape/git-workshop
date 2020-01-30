@@ -4,7 +4,7 @@ Aweseome book!
 # Intro
 Dies ist das beste Buch der Welt.
 Von uns.
-Maya, NAME2, NAME3, Leon
+Maya, Florian, NAME3, Leon
 
 # Kapitel 1: 
 Mein Kapitel HALLO
