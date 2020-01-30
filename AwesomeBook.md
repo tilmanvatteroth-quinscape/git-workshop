@@ -4,7 +4,7 @@ Aweseome book!
 # Intro
 Dies ist das beste Buch der Welt.
 Von uns.
-NAME1, NAME2, NAME3, Leon
+Maya, Florian, Torben, Leon
 
 # Kapitel 1: 
 Mein Kapitel HALLO
@@ -18,3 +18,6 @@ Test Awesome
 This is written to provoke merge conflicts :)
 This is awesome.
 Test Awesome
+
+
+Maya muss auch noch mal was reviewen!
