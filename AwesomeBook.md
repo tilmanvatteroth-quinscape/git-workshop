@@ -9,6 +9,7 @@ NAME1, NAME2, NAME3, NAME4
 # Kapitel 1: 
 Mein Kapitel HALLO
 Schmeckt jetzt nach Waldmeister!
+Alternative nach Lakritz!
 
 # Chapter Awesome:
 Test Awesome
