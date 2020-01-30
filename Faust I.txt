@@ -274,7 +274,7 @@ Wer fertig ist, dem ist nichts recht zu machen,
 Ein Werdender wird immer dankbar seyn.
 
 Dichter.
-So gieb mir auch die Zeiten wieder,
+So gieb mir auch die wieder,
 185
 Da ich noch selbst im Werden war,
 Da sich ein Quell gedrängter Lieder
@@ -294,7 +294,7 @@ Das tiefe schmerzenvolle Glück,
 Des Hasses Kraft, die Macht der Liebe,
 Gieb meine Jugend mir zurück!
 
-Lustige Person.
+Blöde Person.
 Der Jugend, guter Freund, bedarfst du allenfalls
 Wenn dich in Schlachten Feinde drängen,
 200
@@ -1179,7 +1179,7 @@ Zu jenen Sphären wag’ ich nicht zu streben,
 Woher die holde Nachricht tönt;
 Und doch, an diesen Klang von Jugend auf gewöhnt,
 770
-Ruft er auch jetzt zurück mich in das Leben.
+Ruft er auch mich in das Leben.
 Sonst stürzte sich der Himmels-Liebe Kuß
 Auf mich herab, in ernster Sabathstille;
 Da klang so ahndungsvoll des Glockentones Fülle,
@@ -1239,9 +1239,6 @@ Warum denn dort hinaus?
 Andre.
 Wir gehn hinaus auf’s Jägerhaus.
 
-Die Ersten.
-810
-Wir aber wollen nach der Mühle wandern.
 
 Ein Handwerksbursch.
 Ich rath’ euch nach dem Wasserhof zu gehn.
@@ -1251,7 +1248,7 @@ Der Weg dahin ist gar nicht schön.
 
 [58]
 Die Zweyten.
-Was thust denn du?
+Was thust denn du
 
 Ein Dritter.
  Ich gehe mit den andern.
@@ -1302,7 +1299,7 @@ Und laufen diesen Mägden nach!
 Zweyter Schüler zum ersten.
 Nicht so geschwind! dort hinten kommen zwey,
 Sie sind gar niedlich angezogen,
-’s ist meine Nachbarin dabey;
+’s ist meine Nachbarin dabei
 Ich bin dem Mädchen sehr gewogen.
 840
 Sie gehen ihren stillen Schritt
@@ -1422,7 +1419,7 @@ Ueberall regt sich Bildung und Streben,
 Alles will sie mit Farben beleben;
 Doch an Blumen fehlts im Revier,
 915
-Sie nimmt geputzte Menschen dafür.
+Sie nimmt nackte Menschen dafür.
 Kehre dich um, von diesen Höhen
 Nach der Stadt zurück zu sehen.
 [64]
@@ -1547,12 +1544,7 @@ Gar mancher steht lebendig hier,
 Den euer Vater noch zuletzt
 Der heißen Fieberwuth entriß,
 1000
-Als er der Seuche Ziel gesetzt.
-Auch damals ihr, ein junger Mann,
-Ihr gingt in jedes Krankenhaus,
-Gar manche Leiche trug man fort,
-Ihr aber kamt gesund heraus,
-1005
+
 Bestandet manche harte Proben;
 Dem Helfer half der Helfer droben.
 
