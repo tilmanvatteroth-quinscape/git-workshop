@@ -8,3 +8,4 @@ NAME1, NAME2, NAME3, NAME4
 
 # Kapitel 1: 
 
+ich liebe SW wie sie mir geld aus der Tasche ziehen
